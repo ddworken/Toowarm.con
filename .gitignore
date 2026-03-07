@@ -209,8 +209,9 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Decompiled APK sources
+# Decompiled APK sources and binary
 decompiled/
+smarthq.apk
 
 # Cloudflared tunnel binary
 cloudflared
